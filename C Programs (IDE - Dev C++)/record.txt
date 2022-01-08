@@ -1,0 +1,32 @@
+Player Name :Satyam Singh
+Played Date:Sun Apr 26 11:06:01 2020
+Score:2
+___________________________________________________
+Player Name :
+Played Date:Sun Apr 26 11:07:21 2020
+Score:2
+___________________________________________________
+Player Name :Satyam Singh
+Played Date:Wed Apr 29 09:43:27 2020
+Score:8
+___________________________________________________
+Player Name :
+Played Date:Wed Apr 29 10:15:47 2020
+Score:3
+___________________________________________________
+Player Name :Satya
+Played Date:Wed Apr 29 10:26:18 2020
+Score:9
+___________________________________________________
+Player Name :
+Played Date:Wed Apr 29 10:35:47 2020
+Score:11
+___________________________________________________
+Player Name :Satyam Singh
+Played Date:Wed Apr 29 14:05:13 2020
+Score:10
+___________________________________________________
+Player Name :
+Played Date:Wed Apr 29 14:06:09 2020
+Score:5
+___________________________________________________

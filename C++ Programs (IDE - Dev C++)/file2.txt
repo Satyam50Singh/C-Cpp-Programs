@@ -1,0 +1,6 @@
+int main()
+{
+	int freq[20];
+	char str[100];
+	cout<<"Enter string :";
+	cin.getline(str,100);

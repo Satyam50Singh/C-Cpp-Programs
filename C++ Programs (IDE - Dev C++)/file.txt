@@ -1,0 +1,5 @@
+//Program to sort elements in Lexicographical Order(Dictionary Order).(lexicographical_sort)
+#include <iostream>
+#include <string.h>
+using namespace std;
+

@@ -1,0 +1,1 @@
+//ProgramtosortelementsinLexicographicalOrder(DictionaryOrder).(lexicographical_sort)#include<iostream>#include<string.h>usingnamespacestd;;intmain(){intfreq[20];charstr[100];cout<<"Enterstring:";cin.getline(str,100);;
